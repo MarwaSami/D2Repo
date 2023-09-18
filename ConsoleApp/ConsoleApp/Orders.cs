@@ -1,5 +1,5 @@
-using ConsoleApp;
-public class Order()
+
+public class Order2
 {
     public int OrderID { get; set; }
     public string OrderName { get; set; }
