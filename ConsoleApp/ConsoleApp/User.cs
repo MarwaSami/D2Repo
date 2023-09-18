@@ -4,8 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp
-{
     public class User
     {
         public int Id { get; set; }
@@ -15,4 +13,3 @@ namespace ConsoleApp
             return $"id:{Id}, Name:{Name}";
         }
     }
-}
