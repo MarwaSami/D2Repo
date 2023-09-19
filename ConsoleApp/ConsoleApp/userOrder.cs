@@ -5,7 +5,7 @@ public class userOrder
 
 	public void Display()
 	{
-		System.Console.WriteLine (order.ToString ());
+		Console.WriteLine(order.ToString());
 	}
 
 	
